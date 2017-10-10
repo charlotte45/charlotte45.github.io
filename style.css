@@ -206,7 +206,7 @@ body {
 }
 
 .reward {
-    background-image: url("images/_bg_dark.png");
+    background-image: url("images/bg_dark.png");
 }
 
 .reward .title {
@@ -276,7 +276,7 @@ body {
 }
 
 .hunters .btn {
-    background-image: url("images/_bg_dark.png");
+    background-image: url("images/bg_dark.png");
     color: #FD6418;
     font-family: "Party Business";
     font-size: calc(1.5vw + 10px);
@@ -287,7 +287,7 @@ body {
 }
 
 .ring {
-    background-image: url("images/_bg_dark.png");
+    background-image: url("images/bg_dark.png");
 }
 
 .ring .title {
@@ -306,7 +306,7 @@ body {
 }
 
 .ring article {
-    background-image: url("images/_bg_light.png");
+    background-image: url("images/bg_light.png");
     border-radius: 10px 10px 0 0;
     border-bottom: 5px #FD6418 solid;
     width: 70%;
@@ -378,13 +378,13 @@ body {
 }
 
 .army .btn {
-    background-image: url("images/_bg_dark.png");
+    background-image: url("images/bg_dark.png");
     color: #FD6418;
     font-size: calc(1vw + 10px);
 }
 
 .contact {
-    background-image: url("images/_bg_dark.png");
+    background-image: url("images/bg_dark.png");
 }
 
 .contact .title {
@@ -541,7 +541,7 @@ footer .logo {
     }
 
     .ring article {
-        background-image: url("images/_bg_light.png");
+        background-image: url("images/bg_light.png");
         border-radius: 10px 10px 0 0;
         border-bottom: 5px #FD6418 solid;
         width: 70%;
